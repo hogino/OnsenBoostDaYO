@@ -6,10 +6,10 @@ require 'OnsenBoostDaYO/version'
 Gem::Specification.new do |spec|
   spec.name          = "OnsenBoostDaYO"
   spec.version       = OnsenBoostDaYO::VERSION
-  spec.authors       = ["ogi1003"]
-  spec.email         = ["malmal367@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["hogino"]
+  spec.email         = ["hogino1003@gmail.com"]
+  spec.summary       = %q{gem command da YO!}
+  spec.description   = %q{Send me YO in gem command.(gem commandでYO!を送信します。)}
   spec.homepage      = ""
   spec.license       = "MIT"
 
